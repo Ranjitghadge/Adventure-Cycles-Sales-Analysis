@@ -1,9 +1,9 @@
 # AdventureWorks Cycles Sales Analysis
 
 
-<img width="606" alt="Screenshot 2024-08-19 143705" src="https://github.com/user-attachments/assets/2a6c3ac0-c677-4d0f-bde9-0eb5140419af">
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<img width="606" alt="Screenshot 2024-08-19 143705" src="https://github.com/user-attachments/assets/2a6c3ac0-c677-4d0f-bde9-0eb5140419af">
 
 ![App Screenshot](https://upload.wikimedia.org/wikipedia/commons/9/91/AdventureWorksCyclesLogo.png)  <!-- Replace this with an actual image related to the project, either by uploading your own image or finding one relevant to AdventureWorks -->
 
