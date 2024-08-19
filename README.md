@@ -1,57 +1,72 @@
 # AdventureWorks Cycles Sales Analysis
 
-## Project Overview
-This Power BI project analyzes the sales performance, regional trends, and customer segmentation for AdventureWorks, a global manufacturer of cycling equipment and accessories. The project involved transforming raw data, building a relational data model, and creating an interactive dashboard to provide actionable insights.
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Objective
-- Track and analyze KPIs such as sales, revenue, profit, and returns.
-- Compare performance across different regions.
-- Analyze product-level trends and identify high-value customers.
+![App Screenshot](https://upload.wikimedia.org/wikipedia/commons/9/91/AdventureWorksCyclesLogo.png)  <!-- Replace this with an actual image related to the project, either by uploading your own image or finding one relevant to AdventureWorks -->
 
-## Process
-### 1. Data Transformation
-- Imported raw CSV files and cleaned the data to ensure accuracy.
-- Transformed the data for use in analysis and dashboarding.
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-### 2. Data Modeling
-- Built a relational data model connecting transactions, products, customers, and sales territories.
-- Created relationships between tables to enable dynamic reporting.
+## 📖 Introduction
 
-### 3. DAX Calculations
-- Created calculated columns and measures using DAX.
-- Key metrics include Total Sales, Profit Margins, Returns Analysis, and Customer Segmentation.
+AdventureWorks is a global manufacturing company that produces cycling equipment and accessories. The management team needed a comprehensive analysis of key performance indicators (KPIs), regional performance, product-level trends, and high-value customers to make data-driven decisions. This project involved connecting and transforming raw data from CSV files, building a relational data model, creating calculated columns and measures with DAX, and designing an interactive Power BI dashboard to visualize the data.
 
-### 4. Dashboard Design
-- Designed an interactive Power BI dashboard to visualize key metrics.
-- The dashboard includes:
-  - **Sales Overview**: A summary of sales, profit margins, and return rates.
-  - **Regional Performance**: Comparisons of sales across different regions.
-  - **Product Analysis**: Insights into top-selling products and trends.
-  - **Customer Insights**: Segmentation of customers based on purchasing behavior.
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Files
-- **Data/Raw**: Contains the raw CSV files used in the project.
-- **Data/Processed**: Contains processed data files after cleaning and transformation.
-- **Dashboard**: Includes the Power BI dashboard file (`.pbix`).
-- **Screenshots**: Contains images of the dashboard.
+## 📖 Problem Statement
 
-## Usage
-- Open the `.pbix` file in Power BI Desktop to view the dashboard.
-- Explore different metrics and insights by interacting with the dashboard.
+As a Business Intelligence Analyst, your task was to track KPIs like sales, revenue, profit, and returns, compare regional performance, analyze product-level trends, and identify high-value customers. The data was provided in raw CSV files containing information about transactions, returns, products, customers, and sales territories. This project required transforming this raw data into actionable insights using Power BI.
 
-## Screenshots
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## 📖 Data Summary
+
+The dataset includes the following features:
+
+1. **Sales Order Details**: Sales Order ID, Product ID, Order Quantity, Unit Price, etc.
+2. **Product Details**: Product ID, Name, Product Category, etc.
+3. **Customer Information**: Customer ID, Territory ID, Account Number, etc.
+4. **Sales Territory**: Territory ID, Region, Country, etc.
+5. **Returns Information**: Sales Order ID, Return Quantity, Reason, etc.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## 📖 Tools and Libraries Used
+
+This project was executed using the following tools and libraries:
+
+1. **Power BI**: For data transformation, modeling, and visualization.
+2. **DAX**: For creating calculated columns, measures, and custom functions.
+3. **CSV**: The data source format for this project.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## 📖 Conclusion
+
+Key insights from the analysis include:
+
+1. Identified the top-performing regions based on sales and profit.
+2. Analyzed product-level trends to identify high-demand products and those with high return rates.
+3. Created dynamic KPIs to track overall performance, customer behavior, and product success.
+4. Developed interactive dashboards that allow users to filter data by region, product, and customer segments.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## 📖 Screenshots
+
 ### Sales Overview
-![Sales Overview](Screenshots/Overview.png)
+![Sales Overview](Screenshots/Overview.png)  <!-- Replace with your actual screenshot -->
 
 ### Regional Performance
-![Regional Performance](Screenshots/Regional_Performance.png)
+![Regional Performance](Screenshots/Regional_Performance.png)  <!-- Replace with your actual screenshot -->
 
 ### Product Analysis
-![Product Analysis](Screenshots/Product_Analysis.png)
+![Product Analysis](Screenshots/Product_Analysis.png)  <!-- Replace with your actual screenshot -->
 
-## License
-This project is licensed under the MIT License.
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Contact
-For any questions or feedback, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/).
+## 📖 Credits
 
+Ranjit Ghadge | Data Analyst | Data Scientist | Machine Learning Engineer
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Ranjitghadge)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjit-ghadge/)
