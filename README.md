@@ -57,15 +57,17 @@ Key insights from the analysis include:
 ## 📖 Screenshots
 
 ### Sales Overview
-![Sales Overview](Screenshots/Overview.png)  <!-- Replace with your actual screenshot -->
+ <!-- Replace with your actual screenshot -->
+
 
 ### Regional Performance
-![Regional Performance](Screenshots/Regional_Performance.png)  <!-- Replace with your actual screenshot -->
+  <!-- Replace with your actual screenshot -->
+<img width="605" alt="Screenshot 2024-08-19 151826" src="https://github.com/user-attachments/assets/e314dfa8-b076-49b4-96d8-a75bc174898b">
 
 ### Product Analysis
 ![Product Analysis](Screenshots/Product_Analysis.png)  <!-- Replace with your actual screenshot -->
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<img width="606" alt="Screenshot 2024-08-19 143705" src="https://github.com/user-attachments/assets/ac77b8dc-3f4a-400d-809c-289f8fea55e0">
 
 ## 📖 Credits
 
