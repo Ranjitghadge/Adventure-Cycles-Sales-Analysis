@@ -3,7 +3,6 @@
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-<img width="606" alt="Screenshot 2024-08-19 143705" src="https://github.com/user-attachments/assets/2a6c3ac0-c677-4d0f-bde9-0eb5140419af">
 
 ![App Screenshot](https://upload.wikimedia.org/wikipedia/commons/9/91/AdventureWorksCyclesLogo.png)  <!-- Replace this with an actual image related to the project, either by uploading your own image or finding one relevant to AdventureWorks -->
 
@@ -58,6 +57,7 @@ Key insights from the analysis include:
 
 ### Sales Overview
  <!-- Replace with your actual screenshot -->
+<img width="602" alt="Screenshot 2024-08-19 151854" src="https://github.com/user-attachments/assets/0f404f43-4b2e-4fb9-b0cf-2661b9cd3d82">
 
 
 ### Regional Performance
@@ -65,7 +65,7 @@ Key insights from the analysis include:
 <img width="605" alt="Screenshot 2024-08-19 151826" src="https://github.com/user-attachments/assets/e314dfa8-b076-49b4-96d8-a75bc174898b">
 
 ### Product Analysis
-![Product Analysis](Screenshots/Product_Analysis.png)  <!-- Replace with your actual screenshot -->
+ <!-- Replace with your actual screenshot -->
 
 <img width="606" alt="Screenshot 2024-08-19 143705" src="https://github.com/user-attachments/assets/ac77b8dc-3f4a-400d-809c-289f8fea55e0">
 
