@@ -1,10 +1,7 @@
-# AdventureWorks Cycles Sales Analysis
-
-
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-
+# AdventureWorks Cycles Sales Analysis
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
