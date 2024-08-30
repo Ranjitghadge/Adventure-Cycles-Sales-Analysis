@@ -4,7 +4,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-![App Screenshot](https://upload.wikimedia.org/wikipedia/commons/9/91/AdventureWorksCyclesLogo.png)  <!-- Replace this with an actual image related to the project, either by uploading your own image or finding one relevant to AdventureWorks -->
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
