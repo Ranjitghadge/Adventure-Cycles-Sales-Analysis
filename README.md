@@ -13,7 +13,7 @@ AdventureWorks is a global manufacturing company that produces cycling equipment
 
 ## 📖 Problem Statement
 
-As a Business Intelligence Analyst, your task was to track KPIs like sales, revenue, profit, and returns, compare regional performance, analyze product-level trends, and identify high-value customers. The data was provided in raw CSV files containing information about transactions, returns, products, customers, and sales territories. This project required transforming this raw data into actionable insights using Power BI.
+As a Business Intelligence Analyst, our task was to track KPIs like sales, revenue, profit, and returns, compare regional performance, analyze product-level trends, and identify high-value customers. The data was provided in raw CSV files containing information about transactions, returns, products, customers, and sales territories. This project required transforming this raw data into actionable insights using Power BI.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
